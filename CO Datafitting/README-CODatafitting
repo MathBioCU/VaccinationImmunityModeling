@@ -1,0 +1,1 @@
+The CO Datafitting folder contains a copy of the hospitalization data, the CO specific model "CovidVaxMixModel.m", the main file for the data fitting process "fitVaxMixModel_oct2025", and the main file for generating the final figure "processVaxMixModel.m". The simbiology toolbox is required for the CO Datafitting portion of the project.
